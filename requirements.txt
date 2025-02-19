@@ -1,0 +1,7 @@
+langchain
+langchain_groq
+fastapi
+requests
+uvicorn
+langserve
+langchain_core
