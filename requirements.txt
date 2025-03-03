@@ -5,3 +5,5 @@ requests
 uvicorn
 langserve
 langchain_core
+python-dotenv
+streamlit
